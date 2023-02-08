@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "react-php/build/",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
